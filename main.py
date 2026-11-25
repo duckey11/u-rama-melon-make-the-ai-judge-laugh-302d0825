@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Entry: one office joke, one line, no trailing newline."""
 
-JOKE = "I schedule fake dentist appointments to skip meetings; yesterday my boss asked which tooth, and now I actually have a root canal."
+JOKE = "I schedule fake dentist appointments to skip meetings; my boss asked which tooth hurts, and now I have a root canal for real."
 
 def main():
     import os
